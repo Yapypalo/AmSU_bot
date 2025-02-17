@@ -1,0 +1,9 @@
+AmGU_timetableDB.db
+config.py
+DB Browser (SQLite).lnk
+__pycache__/timetable.cpython-312.pyc
+__pycache__/DBdownload.cpython-312.pyc
+__pycache__/config.cpython-312.pyc
+.vscode/launch.json
+testDB.db
+requiremets.txt
